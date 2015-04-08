@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="com.android.ide.eclipse.adt.ANDROID_FRAMEWORK"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.LIBRARIES"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.DEPENDENCIES"/>
+	<classpathentry kind="src" path="libcocos2d"/>
+	<classpathentry kind="lib" path="libs/libPluginProtocol.jar"/>
+	<classpathentry kind="lib" path="libs/mframework.jar"/>
+	<classpathentry kind="lib" path="libs/ShareSDK-Bluetooth-2.5.9.jar"/>
+	<classpathentry kind="lib" path="libs/ShareSDK-Core-2.5.9.jar"/>
+	<classpathentry kind="lib" path="libs/ShareSDK-Douban-2.5.9.jar"/>
+	<classpathentry kind="lib" path="libs/ShareSDK-Dropbox-2.5.9.jar"/>
+	<classpathentry kind="lib" path="libs/ShareSDK-Email-2.5.9.jar"/>
+	<classpathentry kind="lib" path="libs/ShareSDK-Evernote-2.5.9.jar"/>
+	<classpathentry kind="lib" path="libs/ShareSDK-Facebook-2.5.9.jar"/>
+	<classpathentry kind="lib" path="libs/ShareSDK-FacebookMessenger-2.5.9.jar"/>
+	<classpathentry kind="lib" path="libs/ShareSDK-Flickr-2.5.9.jar"/>
+	<classpathentry kind="lib" path="libs/ShareSDK-Foursquare-2.5.9.jar"/>
+	<classpathentry kind="lib" path="libs/ShareSDK-GooglePlus-2.5.9.jar"/>
+	<classpathentry kind="lib" path="libs/ShareSDK-Instagram-2.5.9.jar"/>
+	<classpathentry kind="lib" path="libs/ShareSDK-Instapaper-2.5.9.jar"/>
+	<classpathentry kind="lib" path="libs/ShareSDK-KaiXin-2.5.9.jar"/>
+	<classpathentry kind="lib" path="libs/ShareSDK-Kakao-Core-2.5.9.jar"/>
+	<classpathentry kind="lib" path="libs/ShareSDK-KakaoStory-2.5.9.jar"/>
+	<classpathentry kind="lib" path="libs/ShareSDK-KakaoTalk-2.5.9.jar"/>
+	<classpathentry kind="lib" path="libs/ShareSDK-Line-2.5.9.jar"/>
+	<classpathentry kind="lib" path="libs/ShareSDK-Linkedin-2.5.9.jar"/>
+	<classpathentry kind="lib" path="libs/ShareSDK-Mingdao-2.5.9.jar"/>
+	<classpathentry kind="lib" path="libs/ShareSDK-Pinterest-2.5.9.jar"/>
+	<classpathentry kind="lib" path="libs/ShareSDK-Pocket-2.5.9.jar"/>
+	<classpathentry kind="lib" path="libs/ShareSDK-QQ-2.5.9.jar"/>
+	<classpathentry kind="lib" path="libs/ShareSDK-QZone-2.5.9.jar"/>
+	<classpathentry kind="lib" path="libs/ShareSDK-Renren-2.5.9.jar"/>
+	<classpathentry kind="lib" path="libs/ShareSDK-ShortMessage-2.5.9.jar"/>
+	<classpathentry kind="lib" path="libs/ShareSDK-SinaWeibo-2.5.9.jar"/>
+	<classpathentry kind="lib" path="libs/ShareSDK-SohuSuishenkan-2.5.9.jar"/>
+	<classpathentry kind="lib" path="libs/ShareSDK-TencentWeibo-2.5.9.jar"/>
+	<classpathentry kind="lib" path="libs/ShareSDK-Tumblr-2.5.9.jar"/>
+	<classpathentry kind="lib" path="libs/ShareSDK-Twitter-2.5.9.jar"/>
+	<classpathentry kind="lib" path="libs/ShareSDK-VKontakte-2.5.9.jar"/>
+	<classpathentry kind="lib" path="libs/ShareSDK-Wechat-2.5.9.jar"/>
+	<classpathentry kind="lib" path="libs/ShareSDK-Wechat-Core-2.5.9.jar"/>
+	<classpathentry kind="lib" path="libs/ShareSDK-Wechat-Favorite-2.5.9.jar"/>
+	<classpathentry kind="lib" path="libs/ShareSDK-Wechat-Moments-2.5.9.jar"/>
+	<classpathentry kind="lib" path="libs/ShareSDK-WhatsApp-2.5.9.jar"/>
+	<classpathentry kind="lib" path="libs/ShareSDK-Yixin-2.5.9.jar"/>
+	<classpathentry kind="lib" path="libs/ShareSDK-Yixin-Core-2.5.9.jar"/>
+	<classpathentry kind="lib" path="libs/ShareSDK-Yixin-Moments-2.5.9.jar"/>
+	<classpathentry kind="lib" path="libs/ShareSDK-YouDao-2.5.9.jar"/>
+	<classpathentry kind="lib" path="libs/armeabi/libcocos2dcpp.so"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="gen"/>
+	<classpathentry kind="output" path="bin/classes"/>
+</classpath>
